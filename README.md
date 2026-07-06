@@ -40,6 +40,7 @@ A simple deep learning project that uses a Convolutional Neural Network (CNN) to
 ## Files
 
 ├── cnn.ipynb
+
 └── README.md
 
 ## Author

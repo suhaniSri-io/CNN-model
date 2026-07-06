@@ -46,5 +46,3 @@ A simple deep learning project that uses a Convolutional Neural Network (CNN) to
 ## Author
 
 Suhani Srivastava
-
-A beginner-friendly CNN project that classifies handwritten digits from the MNIST dataset using TensorFlow and Keras.
